@@ -1,0 +1,14 @@
+Encuentra un grave defecto de seguridad en un código legacy. Parchearlo rápido lleva 1 día. Arreglarlo correctamente lleva 2 semanas. Reportarlo podría detener el lanzamiento de un producto importante. Su manager le dice 'Haga el parche rápido, ya lo arreglaremos después'. ¿Cuál es su respuesta?
+
+Responda las siguintes preguntas: 
+¿Cuáles son los conflictos éticos en juego? 
+
+¿A quiénes afecta esta decisión?
+
+¿Qué principios del código se están violando o se deben defender?
+
+¿Cuáles son las posibles acciones a tomar? Describa al menos 2 opciones.
+
+¿Qué podría pasar con cada opción a corto y largo plazo?
+
+¿Qué harían finalmente como equipo?

@@ -1,0 +1,17 @@
+Su jefe le exige cumplir una fecha de entrega imposible. 
+
+Sabe que la única forma es saltarte todas las pruebas de control de calidad (testing). El software se usará en un sistema de citas médicas. ¿Qué decide?
+
+
+Responda las siguintes preguntas: 
+¿Cuáles son los conflictos éticos en juego? 
+
+¿A quiénes afecta esta decisión?
+
+¿Qué principios del código se están violando o se deben defender?
+
+¿Cuáles son las posibles acciones a tomar? Describa al menos 2 opciones.
+
+¿Qué podría pasar con cada opción a corto y largo plazo?
+
+¿Qué harían finalmente como equipo?
